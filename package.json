@@ -1,0 +1,23 @@
+{
+  "name": "create-nodality",
+  "version": "1.0.90",
+  "description": "Project scaffolding tool for Nodality library",
+  "bin": {
+    "create-nodality": "bin/index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "nodality",
+    "scaffold",
+    "starter",
+    "create"
+  ],
+  "author": "Filip Vabrousek",
+  "license": "MIT",
+  "dependencies": {
+    "nodality": "latest"
+  }
+}
