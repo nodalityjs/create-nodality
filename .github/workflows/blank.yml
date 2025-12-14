@@ -1,6 +1,7 @@
 name: Publish create-nodality
 
 on:
+  workflow_dispatch:  # <-- allows manual trigger
   push:
     tags:
       - 'v*.*.*'
